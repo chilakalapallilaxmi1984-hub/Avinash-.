@@ -1,0 +1,6 @@
+{
+  "name": "AVINASH AI",
+  "description": "Next-generation AI video generation studio for creating cinematic Ultra HD videos from text prompts and images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
